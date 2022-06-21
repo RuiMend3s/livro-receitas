@@ -1,6 +1,6 @@
 # Livro de Receitas :cookie:
 
-Ol! Bem vindos ao meu livro de receitas. :cake:
+Olá! Bem vindos ao meu livro de receitas. :cake:
 
 -  Strogonofe de frango
 - Strogoofe de carne
@@ -8,3 +8,10 @@ Ol! Bem vindos ao meu livro de receitas. :cake:
 - Bolo Marta Rocha
 - Bolo Dois Amores
 - Bolo Brigadeiro
+
+
+
+_Um doce é sempre bem-vindo!_
+
+
+

@@ -1,9 +1,14 @@
-# Livro de Receitas :cookie:
+## Livro de Receitas :cookie:
 
 Olá! Bem vindos ao meu livro de receitas. :cake:
 
--  Strogonofe de frango
-- Strogoofe de carne
+#Salgados
+
+- Strogonofe de frango
+- Strogonofe de carne
+
+#Doces
+
 - Bolo de milho
 - Bolo Marta Rocha
 - Bolo Dois Amores
